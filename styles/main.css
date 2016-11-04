@@ -1,0 +1,30 @@
+body
+{
+	background:#1000;
+	font-family:arial;
+}
+
+
+.intro
+{
+	color:#333;	
+}
+
+.resumo
+{
+	color:#555;	
+}
+.work_list
+{
+	color:#555;	
+}
+.academic_list
+{
+	color:#555;	
+}
+#latam{
+    height: 600px;
+    width: 300px;
+}
+
+<div class="col"</div>
